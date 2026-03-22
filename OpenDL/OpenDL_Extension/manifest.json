@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "OpenDL",
+  "version": "1.0",
+  "description": "Intercepts downloads and sends them to the custom OpenDL.",
+  "permissions": [
+    "downloads"
+  ],
+  "host_permissions": [
+    "http://127.0.0.1:12345/*",
+    "http://localhost:12345/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
