@@ -19,6 +19,11 @@ You do not need Java installed on your computer to run OpenDL! It comes bundled 
 2. Download the latest `OpenDL-1.0.exe` installer.
 3. Run the installer and follow the setup wizard.
 4. Launch OpenDL from your desktop or Start menu!
+Note on Windows SmartScreen: > Because this is a free, open-source project, it does not have an expensive Code Signing Certificate. When you run the installer, Windows may show a blue "Windows protected your PC" popup.
+
+To proceed, click More info.
+
+Then click the Run anyway button that appears at the bottom.
 
 ## 🔌 Setting up the Chrome Extension
 To get the true "1-click" download experience from your browser:
