@@ -43,3 +43,7 @@ build/
 *.exe
 Packaging_Input/
 Packaging_Output/
+
+Packing_Input/
+opendl_history.json
+OpenDL/opendl_history.json
